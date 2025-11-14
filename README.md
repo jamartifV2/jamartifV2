@@ -20,6 +20,8 @@ __Soy curioso por naturaleza y si algo me llama la atención lo investigo.__
 
 ## **Languages and Tools:**
 <p>
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" />
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" />
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" />
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" />
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/sass.svg" />
@@ -36,10 +38,4 @@ __Soy curioso por naturaleza y si algo me llama la atención lo investigo.__
 <p>
   <a href="https://www.linkedin.com/in/jamartif/" Target="_blank" ><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" /></a>
 </p>
-
-## Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sthifer&show_icons=true&theme=default)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
