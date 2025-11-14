@@ -36,7 +36,6 @@ __Soy curioso por naturaleza y si algo me llama la atención lo investigo.__
 <p>
   <a href="https://www.linkedin.com/in/jamartif/" Target="_blank" ><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" /></a>
 </p>
-<p>Email: javier_martinez_94@hotmail.com</p>
 
 ## Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sthifer&show_icons=true&theme=default)
